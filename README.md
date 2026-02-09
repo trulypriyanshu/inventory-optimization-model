@@ -175,16 +175,30 @@ Where:
 - Perishable terms: Food, Chocolate, Expiry (+0.7-0.9 confidence)
 
 ### Data Flow
-```
-Raw Data → Cleaning → Demand Analysis → ABC Classification
-     ↓                                   ↓
-  Feature Engineering           Lead Time Assignment
-     ↓                                   ↓
-Risk Detection           Safety Stock Calculation
-     ↓                                   ↓
-Performance Metrics      Stock Status Determination
-                ↓                ↓
-           Visualization & Export
+```mermaid
+graph TB
+    A[Raw Transaction Data] --> B[Data Cleaning & Processing]
+    B --> C[Demand Analysis]
+    C --> D[ABC Classification]
+    D --> E[Obsolescence Risk Detection]
+    E --> F[Lead Time Assignment]
+    F --> G[Safety Stock Calculation]
+    G --> H[Inventory Metrics]
+    H --> I[Visualization Dashboard]
+    H --> J[Excel Reports]
+    H --> K[Power BI Export]
+    
+    style A fill:#e1f5fe,stroke:#333,stroke-width:1px,color:#000
+    style B fill:#f3e5f5,stroke:#333,stroke-width:1px,color:#000
+    style C fill:#e8f5e8,stroke:#333,stroke-width:1px,color:#000
+    style D fill:#fff3e0,stroke:#333,stroke-width:1px,color:#000
+    style E fill:#ffebee,stroke:#333,stroke-width:1px,color:#000
+    style F fill:#e8eaf6,stroke:#333,stroke-width:1px,color:#000
+    style G fill:#fce4ec,stroke:#333,stroke-width:1px,color:#000
+    style H fill:#e0f2f1,stroke:#333,stroke-width:1px,color:#000
+    style I fill:#fff8e1,stroke:#333,stroke-width:1px,color:#000
+    style J fill:#e8f5e8,stroke:#333,stroke-width:1px,color:#000
+    style K fill:#f3e5f5,stroke:#333,stroke-width:1px,color:#000
 ```
 
 ## 📊 Visualization Dashboard
