@@ -174,7 +174,7 @@ Where:
 - Fashion terms: Retro, Trendy, Designer (+0.6-0.8 confidence)
 - Perishable terms: Food, Chocolate, Expiry (+0.7-0.9 confidence)
 
-### Data Flow
+### Architecture
 ```mermaid
 graph TB
     A[Raw Transaction Data] --> B[Data Cleaning Module]
