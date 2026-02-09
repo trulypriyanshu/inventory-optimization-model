@@ -5,6 +5,26 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
+# Table of Contents
+1. [📋 Overview](#-overview)
+2. [🏗️ Project Structure](#️-project-structure)
+3. [📊 Key Features](#-key-features)
+4. [🚀 Quick Start Guide](#-quick-start-guide)
+5. [📈 Sample Results](#-sample-results)
+6. [🔧 Technical Implementation](#-technical-implementation)
+7. [📊 Visualization Dashboard](#-visualization-dashboard)
+8. [🎯 Business Applications](#-business-applications)
+9. [📋 Requirements](#-requirements)
+10. [🔄 Customization Options](#-customization-options)
+11. [📈 Performance Metrics](#-performance-metrics)
+12. [🚨 Limitations & Considerations](#-limitations--considerations)
+13. [📚 References & Data Source](#-references--data-source)
+14. [🤝 Contributing](#-contributing)
+15. [📄 License](#-license)
+16. [👨‍💻 Author](#-author)
+17. [🙏 Acknowledgments](#-acknowledgments)
+18. [📞 Support](#-support)
+
 ## 📋 Overview
 
 The **Inventory Optimization Model** is a comprehensive analytics solution designed to optimize inventory management for e-commerce, retail & manufacturing businesses. This system applies statistical forecasting, ABC classification, and machine learning principles to reduce inventory costs, prevent stockouts, and improve service levels.
