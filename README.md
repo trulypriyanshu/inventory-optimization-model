@@ -331,6 +331,7 @@ For questions, issues, or feature requests:
 1. Check existing issues on GitHub
 2. Create a new issue with detailed description
 3. Email: iampriyanshubhardwaj@gmail.com.com
+4. **Documentation**: [View Full Documentation](https://github.com/trulypriyanshu/inventory-optimization-model/wiki)
 
 ---
 
