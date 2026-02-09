@@ -1,4 +1,4 @@
-# 📦 Inventory Optimization Model
+# Inventory Optimization Model
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
