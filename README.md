@@ -207,6 +207,8 @@ The system generates a comprehensive 3x3 visualization grid:
 8. **Inventory Turns**: Turnover rates with industry benchmarks
 9. **Lead Time Distribution**: Box plot of lead time variability
 
+![Sample Visualization](outputs/inventory_analysis_20260210_012157.png)
+
 ## 🎯 Business Applications
 
 ### For Inventory Managers
