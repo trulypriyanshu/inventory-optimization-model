@@ -4,6 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+![Documentation](https://img.shields.io/badge/Documentation-Wiki-White)
 
 ## 📃 Table of Contents
 1. [Overview](#-overview)
