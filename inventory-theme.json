@@ -1,0 +1,20 @@
+{
+    "name": "Inventory Optimization Theme",
+    "dataColors": [
+        "#FFD700", "#C0C0C0", "#CD7F32",
+        "#4ECDC4", "#FF6B6B", "#45B7D1",
+        "#2E86AB", "#A23B72", "#F18F01",
+        "#6A0572", "#AB83A1", "#3C91E6"
+    ],
+    "foreground": "#2C3E50",
+    "background": "#FFFFFF",
+    "tableAccent": "#3498DB",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{"transparency": 100}],
+                "backgroundPane": [{"color": {"solid": {"color": "#F8F9FA"}}}]
+            }
+        }
+    }
+}
