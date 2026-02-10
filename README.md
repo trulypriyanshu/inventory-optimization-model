@@ -1,11 +1,11 @@
-# Inventory Optimization Model
+# 📦 Inventory Optimization Model
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
-## Table of Contents
+## 📃 Table of Contents
 1. [📋 Overview](#-overview)
 2. [🏗️ Project Structure](#️-project-structure)
 3. [📊 Key Features](#-key-features)
