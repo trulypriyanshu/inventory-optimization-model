@@ -1,6 +1,6 @@
 """
 ================================================================================
-ONLINE RETAIL INVENTORY OPTIMIZATION SYSTEM
+INVENTORY OPTIMIZATION MODEL
 Project Author - Priyanshu Bhardwaj
 Date - 10-02-2026
 
