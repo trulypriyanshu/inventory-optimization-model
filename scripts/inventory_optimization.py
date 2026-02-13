@@ -4,7 +4,7 @@ ONLINE RETAIL INVENTORY OPTIMIZATION SYSTEM
 Project Author - Priyanshu Bhardwaj
 Date - 10-02-2026
 
-GitHub: https://github.com/trulypriyanshu/online-retail-inventory-optimization
+GitHub: https://github.com/trulypriyanshu/inventory-optimization-model
 
 Features:
 1. Comprehensive data cleaning and preprocessing
